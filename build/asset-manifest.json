@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MiniCaluOnReact/static/css/main.5e23510b.css",
+    "main.js": "/MiniCaluOnReact/static/js/main.cbefdd92.js",
+    "static/js/787.1ed0c42c.chunk.js": "/MiniCaluOnReact/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/MiniCaluOnReact/index.html",
+    "main.5e23510b.css.map": "/MiniCaluOnReact/static/css/main.5e23510b.css.map",
+    "main.cbefdd92.js.map": "/MiniCaluOnReact/static/js/main.cbefdd92.js.map",
+    "787.1ed0c42c.chunk.js.map": "/MiniCaluOnReact/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e23510b.css",
+    "static/js/main.cbefdd92.js"
+  ]
+}
